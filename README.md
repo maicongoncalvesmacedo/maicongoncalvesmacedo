@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maicongoncalvesmacedo
+- 👋 Olá, sou @maicongoncalvesmacedo
 - 👀  Estou iniciando em dev
-- 🌱 I’m currentmente trabalho como engenheiro
+- 🌱 Atualmente trabalho como engenheiro
 - 💞️  A disposição no que puder ajudar
-- 📫 How to reach me @maicongoncalves1
+- 📫 Como me encontrar @maicongoncalves1
 
 <!---
 maicongoncalvesmacedo/maicongoncalvesmacedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
